@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Integer Evaluation</string>
+    <string name="odd_or_even">Odd or Even Evaluation</string>
+    <string name="check">Check</string>
+    <string name="enter_any_number">Enter Any Number</string>
+    <string name="answer">Answer</string>
+</resources>
