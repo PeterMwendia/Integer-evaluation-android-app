@@ -28,6 +28,6 @@ After a successful build you app should look like:
 
 ![image](images/dash.PNG)
 
-![image](images/even.PNG)
+![image](images/even.png)
 
-![image](images/odd.PNG)
+![image](images/odd.png)
