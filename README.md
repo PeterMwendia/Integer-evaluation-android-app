@@ -26,8 +26,8 @@ If you have any connected device, the result should be something like:
 
 After a successful build you app should look like:
 
-![image](images/dash.PNG)
+![image](images/dash.png)
 
 ![image](images/even.png)
 
-![image](images/odd.png)
+![image](images/odd.png )
