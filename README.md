@@ -1,4 +1,4 @@
-# Android-App-Dev
+# Integer-evaluation-android-app
 A simple-interger-evaluation program using Java
 
 ## Prerequisites
